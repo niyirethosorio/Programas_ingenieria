@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Programas_ingenieria</string>
+    <string name="hello_world">Hello world</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="header_titles">
+        <item>Pregrado</item>
+        <item>Postgrado</item>
+        <item>Maestrias</item>
+        <item>Tecnologias</item>
+
+    </string-array>
+
+    <string-array name="h1_items">
+        <item>Ingenieria de Sistemas</item>
+        <item>Ingenieria de Alimentos</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>Especializacion en Redes</item>
+        <item>Especializacion en Seguridad</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>Maestria en ciencias informaticas</item>
+    </string-array>
+
+    <string-array name="h4_items">
+        <item>Tecnologia en sistemas</item>
+    </string-array>
+
+
+
+
+</resources>
